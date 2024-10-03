@@ -1,9 +1,11 @@
 # Hồ Sơ Cá Nhân
 
+![Ảnh đại diện](https://github.com/username/repository/blob/main/AVA.jpg?raw=true)
+
 ## Thông Tin Liên Hệ
-- **Họ và tên:** Nguyễn Văn A
-- **Email:** nguyenvana@example.com
-- **Điện thoại:** 0123 456 789
+- **Họ và tên:** Trần Nguyên Vũ
+- **Email:** trannguyenvu774411@gmail.com
+- **Điện thoại:** 0123 456 789 (hoặc số khác nếu bạn muốn thay đổi)
 - **Địa chỉ:** 123 Đường ABC, Thành phố HCM
 
 ## Mục Tiêu Nghề Nghiệp
