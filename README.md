@@ -1,7 +1,7 @@
 
 # Curriculum Vitae
 
-<img src="https://github.com/TranNguyenVu74123/HOCLAI14/blob/main/AVA.jpg?raw=true" alt="Profile Picture" width="150"/>
+<img src="https://github.com/TranNguyenVu74123/HOCLAI14/blob/main/AVA.jpg?raw=true" alt="Profile Picture" width="650"/>
 
 ## Contact Information
 - **Name:** Tran Nguyen Vu
