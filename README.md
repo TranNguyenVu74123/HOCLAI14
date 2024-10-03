@@ -1,7 +1,6 @@
 # Hồ Sơ Cá Nhân
 
-![Ảnh đại diện](![image](https://github.com/user-attachments/assets/767a893c-8106-42f7-a37a-e119ac2f90d3)
-)
+![Ảnh đại diện](https://github.com/username/repository/blob/main/AVA.jpg?raw=true)
 
 ## Thông Tin Liên Hệ
 - **Họ và tên:** Trần Nguyên Vũ
