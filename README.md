@@ -1,48 +1,50 @@
-# Hồ Sơ Cá Nhân
 
-![Ảnh đại diện](https://github.com/TranNguyenVu74123/HOCLAI14/blob/main/AVA.jpg)
+# Curriculum Vitae
 
-## Thông Tin Liên Hệ
-- **Họ và tên:** Trần Nguyên Vũ
+<img src="https://github.com/TranNguyenVu74123/HOCLAI14/blob/main/AVA.jpg?raw=true" alt="Profile Picture" width="150"/>
+
+## Contact Information
+- **Name:** Tran Nguyen Vu
 - **Email:** trannguyenvu774411@gmail.com
-- **Điện thoại:** 0123 456 789 (hoặc số khác nếu bạn muốn thay đổi)
-- **Địa chỉ:** 123 Đường ABC, Thành phố HCM
+- **Phone:** 0123 456 789 (or any other number you prefer)
+- **Address:** 123 ABC Street, Ho Chi Minh City
 
-## Mục Tiêu Nghề Nghiệp
-Tìm kiếm một vị trí trong lĩnh vực phát triển phần mềm, nơi tôi có thể áp dụng kỹ năng lập trình và khả năng giải quyết vấn đề của mình để đóng góp vào sự phát triển của công ty.
+## Career Objective
+Seeking a position in software development where I can apply my programming skills and problem-solving abilities to contribute to the growth of the company.
 
-## Học Vấn
-- **Cử nhân Công nghệ Thông tin**  
-  Trường Đại học XYZ, Thành phố HCM  
+## Education
+- **Bachelor of Information Technology**  
+  XYZ University, Ho Chi Minh City  
   2018 - 2022
 
-## Kinh Nghiệm Làm Việc
-### Lập trình viên thực tập
-**Công ty ABC**  
-Tháng 6 2022 - Tháng 12 2022
-- Tham gia phát triển ứng dụng web sử dụng HTML, CSS, JavaScript.
-- Hỗ trợ nhóm trong việc kiểm thử và sửa lỗi phần mềm.
+## Work Experience
+### Intern Software Developer
+**ABC Company**  
+June 2022 - December 2022
+- Participated in the development of web applications using HTML, CSS, and JavaScript.
+- Assisted the team in testing and debugging software.
 
-### Lập trình viên
-**Công ty DEF**  
-Tháng 1 2023 - Hiện tại
-- Phát triển và bảo trì hệ thống quản lý dữ liệu.
-- Tối ưu hóa hiệu suất của các ứng dụng hiện có.
+### Software Developer
+**DEF Company**  
+January 2023 - Present
+- Developed and maintained a data management system.
+- Optimized the performance of existing applications.
 
-## Kỹ Năng
-- **Ngôn ngữ lập trình:** Python, Java, JavaScript
-- **Công nghệ web:** HTML, CSS, React
-- **Cơ sở dữ liệu:** MySQL, MongoDB
-- **Công cụ:** Git, Docker
+## Skills
+- **Programming Languages:** Python, Java, JavaScript
+- **Web Technologies:** HTML, CSS, React
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker
 
-## Dự Án Nổi Bật
-- **Ứng dụng quản lý công việc**: Xây dựng ứng dụng giúp người dùng quản lý công việc hàng ngày với các tính năng như tạo, chỉnh sửa và xóa công việc.
-- **Website thương mại điện tử**: Phát triển website cho cửa hàng trực tuyến với chức năng giỏ hàng và thanh toán.
+## Notable Projects
+- **Task Management Application:** Developed an application to help users manage daily tasks with features like creating, editing, and deleting tasks.
+- **E-commerce Website:** Built a website for an online store with shopping cart and payment functionalities.
 
-## Sở Thích
-- Đọc sách công nghệ
-- Chơi cờ vua
-- Du lịch
+## Hobbies
+- Reading technology books
+- Playing chess
+- Traveling
 
-## Tham Khảo
-Sẵn sàng cung cấp khi có yêu cầu.
+## References
+Available upon request.
+
